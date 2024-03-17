@@ -1,5 +1,5 @@
 # MIRaGE
-Programs set for Music Information generation and Genre detection
+Set of programs and models for Music Information generation and Genre detection
 
 
 ## List of Raw data sources
