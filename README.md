@@ -1,2 +1,2 @@
 # MIRaGE
-Music Information Retrieval and Genating Engine
+Programs set for Music Information generation and Genre detection
